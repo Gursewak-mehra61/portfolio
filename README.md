@@ -4,7 +4,7 @@ This is my personal frontend developer portfolio showcasing my skills, projects,
 
 ## 🔗 Live Portfolio
 
-[🌐 View Portfolio](https://dapper-babka-f74469.netlify.app)
+[🌐 View Portfolio](gursewak-portfolios.netlify.app)
 
 ## 🧰 Tech Stack
 
